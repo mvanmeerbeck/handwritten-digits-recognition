@@ -1,0 +1,10 @@
+{
+    "name": "maxime/handwritten-digits-recognition",
+    "authors": [
+        {
+            "name": "Maxime.Vanmeerbeck",
+            "email": "maxime.vanmeerbeck@gmail.com"
+        }
+    ],
+    "require": {}
+}
